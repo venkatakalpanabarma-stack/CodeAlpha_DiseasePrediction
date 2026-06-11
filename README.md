@@ -90,6 +90,5 @@ This project demonstrates how Machine Learning can assist healthcare systems in 
 
 ---
 
-## 👨‍💻 Author venakta kalpana barama
+## 👨‍💻 Author venkata kalpana barama
 
-Your Name
